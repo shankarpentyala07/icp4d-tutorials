@@ -1,6 +1,6 @@
 #!/bin/sh
 
-export PATH=$PATH:/opt/IBM/DB2/bin
+export PATH=$PATH:/opt/ibm/db2/V11.1/bin
 basedir=$(dirname `which $0`)
 
 cd ${basedir}
